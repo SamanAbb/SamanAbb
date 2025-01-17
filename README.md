@@ -1,5 +1,3 @@
-![telegram-svgrepo-com (2)](https://github.com/user-attachments/assets/7d7a7585-f7ae-484f-ab5d-b00f49f1445c)
-
 ### <div align="center">Hello There ! I'm Saman Abbaspoor 👋</div>  
 
 
@@ -69,7 +67,7 @@ Expertise in front-end and back-end 🤞
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href='#' target="_blank">
-<img src=https://img.icons8.com/?size=100&id=F4ZPUh2Mk5tk&format=png&color=000000.png?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 2px;" />
+<img src=https://img.icons8.com/?size=100&id=F4ZPUh2Mk5tk&format=png&color=000000.png alt=telegram style="margin-bottom: 2px;" />
 </a>
 <a href="https://github.com/SamanAbb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
