@@ -1,7 +1,7 @@
 
 
-### <div align="center">hello therer ! I'm Saman Abbaspoor 👋</div>  
-  
+### <div align="center">Hello There ! I'm Saman Abbaspoor 👋</div>  
+  *<div align="center">🔹Interested in back-end and front-end</div>*
 
 🔗 💻About me   
   
