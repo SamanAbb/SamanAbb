@@ -24,7 +24,7 @@ Expertise in front-end and back-end 🤞
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align='center'><tr><td valign="top" width="33%">
 
 
 
