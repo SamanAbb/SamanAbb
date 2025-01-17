@@ -1,11 +1,12 @@
 
 
 ### <div align="center">Hello There ! I'm Saman Abbaspoor 👋</div>  
-<br>
-  *<div align="center">🔹Interested in back-end and front-end</div>*
-  <hr>
+
+
+*<div align="center">🔹Interested in back-end and front-end</div>*  
 <br>
 <hr>
+<br>
 🔗 💻About me   
   
 
