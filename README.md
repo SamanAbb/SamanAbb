@@ -4,7 +4,7 @@
 *<div align="center">🔹Interested in back-end and front-end </div>*  
 
 <hr>
-🔗 💻About me   
+ ## 🔗💻ABOUT ME   
   
 
 - 👁️‍🗨️
