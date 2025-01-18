@@ -2,7 +2,7 @@
 
 
 *<div align="center">🔹Interested in back-end and front-end </div>*  
-<br>
+
 <hr>
 🔗 💻About me   
   
