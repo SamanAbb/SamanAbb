@@ -4,7 +4,6 @@
 *<div align="center">🔹Interested in back-end and front-end </div>*  
 <br>
 <hr>
-<br>
 🔗 💻About me   
   
 
