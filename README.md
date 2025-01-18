@@ -1,7 +1,7 @@
 ### <div align="center">Hello There ! I'm Saman Abbaspoor 👋</div>  
 
 
-*<div align="center">🔹Interested in back-end and front-end</div>*  
+*<div align="center"><h2>🔹Interested in back-end and front-end </h2></div>*  
 <br>
 <hr>
 <br>
