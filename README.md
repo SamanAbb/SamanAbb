@@ -2,8 +2,9 @@
 
 
 *<div align="center">🔹Interested in back-end and front-end </div>*  
-<br>
+
 <hr>
+<br>
 <h2>🔗💻ABOUT ME </h2>  
   
 
