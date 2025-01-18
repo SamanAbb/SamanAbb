@@ -5,7 +5,7 @@
 <br>
 <hr>
 <br>
-<h2>💻ABOUT ME </h2>  
+<h2>ABOUT ME </h2>  
   
 
 - 👁️‍🗨️
