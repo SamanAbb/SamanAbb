@@ -75,7 +75,6 @@ Expertise in front-end and back-end 🤞
   
  
 ## 📁Future projects
-   - coming soon!
    - <a href="https://github.com/SamanAbb/My-Frist-Rep-Todo-List-" target="_blank">Simple Todo List Project</a>
 
   
